@@ -40,7 +40,7 @@ LOCAL_ADDRESS = "https://[line-works].herokuapp.com/"
 
 # DB config
 DB_HOST = "ec2-54-157-78-113.compute-1.amazonaws.com"
-DB_NAME = "d8g8nah9i9hqd6
+DB_NAME = "d8g8nah9i9hqd6"
 DB_USER = "imldmuphkeqvjb"
 DB_PORT = "5432"
 DB_PASSWORD = "400bf8df4047523af84a504903b2a0991512d52e5900d6b1c6c41d955c9bf55b"
